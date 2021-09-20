@@ -143,7 +143,7 @@ border: none;
     align-items: center;
    
 display: flex;
-padding: 3% 5%;
+padding: 3% 3%;
 }
 
 .left_body_center_content:hover{
@@ -157,7 +157,10 @@ padding: 3% 5%;
 }
 
 .left_body_bottom{
-    padding: 0% 4%;
+    padding: 0% 9% 0% 0%;
+}
+.left_body_bottom h5{
+    margin-left: 7%;
 }
 
 
@@ -170,17 +173,20 @@ padding: 3% 5%;
 .account_name{
     display: flex;
     padding-top: 2%;
-    padding-right: 6%;
+   
     align-items: center;
     cursor: pointer;
     
 }
-.account_name i{
-
+.he{
+margin-left: 5%;
+}
+.ho{
+    margin-right: 11%;
 }
 
 .plus{
-    margin-left: 46%;
+    margin-left: 35%;
 }
 .bottom_p{
     font-size: 0.8rem;
